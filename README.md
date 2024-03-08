@@ -142,3 +142,88 @@ word and the word to replace it with).
 
 
 ![a_1_Q_k](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/0920d6f7-9e4e-4ed8-bc1b-e2d6fae25b3d)
+
+
+
+
+
+
+
+
+
+
+
+# Problem 2: Read the instructions carefully and answer accordingly. If there is any need to insert some data then do that as well. 
+
+
+a. Suppose you have a file named "data.txt" containing important information. Display the 
+first 10 lines of this file to quickly glance at its contents using a command. 
+
+
+
+![a_1_Q2_a](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/d0c3e4f3-18c9-4daa-bfba-03ffd9ae61da)
+
+
+
+
+
+b. Now, to check the end of the file for any recent additions, display the last 5 lines of 
+"data.txt" using another command.
+
+
+
+![a_1_Q2_b](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/fed053b6-ab34-4efd-96c0-67a501f7da9b)
+
+
+
+
+c. In a file named "numbers.txt," there are a series of numbers. Display the first 15 lines of 
+this file to analyze the initial data set. 
+
+
+
+![a_1_Q2_c](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/4a265c1e-b8ed-42ca-a3d0-c6a6dd45d03f)
+
+
+
+
+
+d. To focus on the last few numbers of the dataset, display the last 3 lines of "numbers.txt". 
+
+
+
+![a_1_Q2_d](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/cd3884cb-00fb-4e82-bdbb-02896689009a)
+
+
+
+
+e. Imagine you have a file named "input.txt" with text content. Use a command to translate 
+all lowercase letters to uppercase in "input.txt" and save the modified text in a new file 
+named "output.txt." 
+
+
+
+![a_1_Q2_f](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/2857837d-4c87-4f20-9a3c-3aaa92f9a766)
+
+
+
+
+f. In a file named "duplicate.txt," there are several lines of text, some of which are 
+duplicates. Use a command to display only the unique lines from "duplicate.txt." 
+
+
+
+
+![a_1_Q2_g](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/2a38a05e-5a76-45c7-ac8b-ae1cd1d3478e)
+
+
+
+
+g. In a file named "fruit.txt," there is a list of fruits, but some fruits are repeated. Use a 
+command to display each unique fruit along with the count of its occurrences in 
+"fruit.txt." 
+
+
+
+
+![a_1_Q2_h](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/6c3de3c1-cacf-42e9-ab39-5555a230e590)
