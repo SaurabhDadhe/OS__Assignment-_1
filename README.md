@@ -2,6 +2,8 @@
 OS Assignment 1
 
 
+# Problem 1: Read the instructions carefully and answer accordingly. If there is any need to insert some data then do that as well. 
+
 
 a) Navigate and List:
 
