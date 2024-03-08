@@ -1,7 +1,10 @@
 # OS__Assignment-_1
 OS Assignment 1
 
+
+
 a) Navigate and List:
+
 a. Start by navigating to your home directory and list its contents. Then, move into a 
 directory named "LinuxAssignment" if it exists; otherwise, create it.
 
@@ -11,7 +14,10 @@ directory named "LinuxAssignment" if it exists; otherwise, create it.
 
 
 
+
+
 b) File Management:
+
 a. Inside the "LinuxAssignment" directory, create a new file named "file1.txt". Display its 
 contents. 
 
@@ -20,14 +26,21 @@ contents.
 
 
 
+
+
 c) Directory Management:
+
 a. Create a new directory named "docs" inside the "LinuxAssignment" directory. 
 
 
 ![a_1_Q_a](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/b092d2a5-faf1-4cfd-b5a2-20f5bfe55e9d)
 
 
+
+
+
 d) Copy and Move Files:
+
 a. Copy the "file1.txt" file into the "docs" directory and rename it to "file2.txt".
 
 
@@ -37,7 +50,10 @@ a. Copy the "file1.txt" file into the "docs" directory and rename it to "file2.t
 
 
 
+
+
 e) Permissions and Ownership:
+
 a. Change the permissions of "file2.txt" to allow read, write, and execute permissions for 
 the owner and only read permissions for others. Then, change the owner of "file2.txt" to 
 the current user. 
@@ -49,7 +65,10 @@ the current user.
 
 
 
+
+
 f) Final Checklist:
+
 a. Finally, list the contents of the "LinuxAssignment" directory and the root directory to 
 ensure that all operations were performed correctly. 
 
@@ -58,7 +77,10 @@ ensure that all operations were performed correctly.
 
 
 
+
+
 g) File Searching:
+
 a. Search for all files with the extension ".txt" in the current directory and its subdirectories. 
 b. Display lines containing a specific word in a file (provide a file name and the specific 
 word to search). 
@@ -69,7 +91,10 @@ word to search).
 
 
 
+
+
 h) System Information:
+
 a. Display the current system date and time. 
 
 
@@ -78,7 +103,10 @@ a. Display the current system date and time.
 
 
 
+
+
 i) Networking:
+
 a. Display the IP address of the system. 
 b. Ping a remote server to check connectivity (provide a remote server address to ping). 
 
@@ -86,7 +114,11 @@ b. Ping a remote server to check connectivity (provide a remote server address t
 ![a_1_Q_i](https://github.com/SaurabhDadhe/OS__Assignment-_1/assets/103322970/4f176ce1-d7b0-42c2-8d78-c4c1093ffdf6)
 
 
+
+
+
 j) File Compression:
+
 a. Compress the "docs" directory into a zip file. 
 b. Extract the contents of the zip file into a new directory
 
@@ -98,7 +130,10 @@ b. Extract the contents of the zip file into a new directory
 
 
 
+
+
 k) File Editing:
+
 a. Open the "file1.txt" file in a text editor and add some text to it. 
 b. Replace a specific word in the "file1.txt" file with another word (provide the original 
 word and the word to replace it with).
